@@ -35,7 +35,7 @@ I am a former language educator and psychology graduate transitioning into a car
 
 ## 📫 Let's Connect
 * **LinkedIn:** [linkedin.com/in/emmanuelygr](https://linkedin.com/in/emmanuelygr)
-* **Email:** emmanuelygr@gmx.de
+* **Email:** emmanuel
 
 <p align="center">
 <img src="https://www.gitskins.com/api/section/heatmap?username=emmanuelygr&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F140214060%3Fu%3D0acb60bc55eeee3b497bd3961a471ceeae096eff%26v%3D4&v=showcase-heatmap-5" alt="emmanuelygr heatmap visual" />
